@@ -1,7 +1,7 @@
 # Next-word-prediction-using-RNN
 
 ## Objective
-####### The objective of this project is to develop a high-accuracy LSTM-based RNN model for next word prediction, aiming to understand and predict word sequences effectively. The model is designed to enhance applications requiring context-aware text prediction, such as autocompletion tools, by providing accurate and contextually relevant word suggestions.
+#### The objective of this project is to develop a high-accuracy LSTM-based RNN model for next word prediction, aiming to understand and predict word sequences effectively. The model is designed to enhance applications requiring context-aware text prediction, such as autocompletion tools, by providing accurate and contextually relevant word suggestions.
 
 
 ## Code Summary:
